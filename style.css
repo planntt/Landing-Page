@@ -54,11 +54,16 @@ a {
 
 .hero-bold {
     font-size: 32px;
-    font-weight: bolder;
+    font-weight: bold;
 }
 
 .harvestables {
     padding: 0px 72px;
+    display: flex;
+}
+
+.items {
+    display: flex;
 }
 
 .quote {
